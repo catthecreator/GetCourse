@@ -11,18 +11,8 @@
 
 ## Установка
 
-Если вы используете [Composer](http://getcomposer.org/), то добавьте в свой "composer.json":
-
 ```
-  "repositories": [
-        {
-            "type": "git",
-            "url": "https://github.com/getcourse-ru/GetCourse-PHP-SDK"
-        }
-    ],
-  "require": {
-     "getcourse-ru/GetCourse-PHP-SDK": "dev-master"
-  }
+composer require catthecreator/getcourse
 ```
 
 ## Пример использования
